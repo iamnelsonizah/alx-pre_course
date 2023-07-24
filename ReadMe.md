@@ -1,1 +1,1 @@
-My first readme
+I love python, React and Machine Learning
